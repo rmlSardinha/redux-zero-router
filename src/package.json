@@ -1,0 +1,14 @@
+{
+  "name": "redux-zero + router",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "homepage": "https://codesandbox.io/s/3q957927zm",
+  "main": "index.js",
+  "dependencies": {
+    "redux-zero": "4.5.0",
+    "react-router-dom": "4.2.2",
+    "react-dom": "16.1.1",
+    "react": "16.1.1"
+  }
+}
